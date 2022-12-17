@@ -1,4 +1,4 @@
-- Hi, World! 👋 I’m @Ongadi
+Hi, World! 👋 I’m Brandon Vosena
 I am a self taught web developer with a vast interest in software engineering, web3 and web development.
 I love building things and products that the internet will love using.
 I believe technology is the open portal to solving world's problems through AI and development.

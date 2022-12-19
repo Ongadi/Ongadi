@@ -1,8 +1,14 @@
 ### Hi, World! 👋 I’m Brandon Vosena ###
 
-I am a self taught web developer with a vast interest in software engineering, web3 and web development.
-I love building things and products that the internet will love using.
-I believe technology is the open portal to solving world's problems through AI and development.
+I am a front-end developer with a background in Web Development. I have experience using technologies such as React.js, Node.js, HTML, Bootstrap, CSS, and JavaScript to build modern and interactive web applications.
+
+In my current role, I have had the opportunity to work on a variety of projects, ranging from simple landing pages to complex web applications. I am constantly learning and staying up-to-date with the latest technologies and approaches in the field.
+
+I also have a small amount of knowledge in Python and enjoy using it for data analysis and automation tasks.
+
+In my free time, I enjoy staying active by running and playing sports, as well as reading and learning about new topics.
+
+Thank you for visiting my GitHub profile. Feel free to check out my projects and reach out if you have any questions or would like to collaborate.
 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with anyone who has same goals as I do

@@ -12,7 +12,7 @@ Thank you for visiting my GitHub profile. Feel free to check out my projects and
 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with anyone who has same goals as I do
-- 📫 How to reach me [![twitter]()](https://twitter.com/ongadidev)
+- 📫 How to reach me [Twitter](https://twitter.com/ongadidev)
 
 **Github Stars**
 
